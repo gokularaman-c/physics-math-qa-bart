@@ -47,3 +47,7 @@ pip install -r requirements.txt
 - Training and evaluation were originally performed on Kaggle.
 - This repository reorganizes the project for clarity and reproducibility on GitHub.
 - Some notebook sections are exploratory and not part of the final training pipeline.
+
+## Author
+
+Gokularaman C 
