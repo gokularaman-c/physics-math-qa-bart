@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+.venv/
+.env
+
+data/*
+!data/README.md
+
+models/
+checkpoints/
+*.zip
+
+.ipynb_checkpoints/
