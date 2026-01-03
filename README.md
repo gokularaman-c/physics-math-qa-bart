@@ -37,7 +37,9 @@ Dataset paths in the notebooks reference Kaggle-style directories and should be 
 Create a virtual environment and install dependencies:
 
 python -m venv .venv
+
 source .venv/bin/activate
+
 pip install -r requirements.txt
 
 ## Notes
